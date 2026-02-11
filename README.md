@@ -1,7 +1,6 @@
 ## Hi, I'm Solomia Maievska 👋
 
-Model, Influencer, UGC creator, Singer
-
+I love coding, too!
 <!--
 **erictenhag/erictenhag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
